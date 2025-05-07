@@ -1,5 +1,5 @@
 # Loops Brand Assets
-Logos and other brand assets for [Loops](https://github.com/joinloops). Original design by [@nclm](https://github.com/nclm).
+Logos and other brand assets for [Loops](https://github.com/joinloops). Original design by [Rhubarbe](https://rhubarbe.design).
 
 ## Colors
 The brand colors of Loops are:  
